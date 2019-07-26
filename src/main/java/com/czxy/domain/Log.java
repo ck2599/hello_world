@@ -8,7 +8,7 @@ import javax.persistence.Table;
 import java.util.Date;
 
 /**
- * @author ccccc
+ * @author kkkkkk
  * @version v 1.0
  * @date 2019/7/25  11:41
  * @infos
